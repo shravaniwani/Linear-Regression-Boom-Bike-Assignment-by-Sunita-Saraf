@@ -57,7 +57,8 @@ Note :
 
 ## Acknowledgements
 
-Contributer.
-##Sunita Saraf
+### Contributer
+    * Sunita Saraf
+
 
 #### This project is created as part of IIITB and MultipleLinear regression assignment 
